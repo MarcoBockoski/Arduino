@@ -1,0 +1,82 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\MARCOA~1\\AppData\\Local\\Temp\\arduino_build_142396\\sketch\\ina219.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\MARCOA~1\\AppData\\Local\\Temp\\arduino_build_142396\\sketch\\ina219.ino.cpp",
+    "Include": "Adafruit_INA219.h",
+    "Includepath": "C:\\Users\\Marco Antonio\\Documents\\Arduino\\libraries\\Adafruit_INA219"
+  },
+  {
+    "Sourcefile": "C:\\Users\\MARCOA~1\\AppData\\Local\\Temp\\arduino_build_142396\\sketch\\ina219.ino.cpp",
+    "Include": "Adafruit_BusIO_Register.h",
+    "Includepath": "C:\\Users\\Marco Antonio\\Documents\\Arduino\\libraries\\Adafruit_BusIO"
+  },
+  {
+    "Sourcefile": "C:\\Users\\MARCOA~1\\AppData\\Local\\Temp\\arduino_build_142396\\sketch\\ina219.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\MARCOA~1\\AppData\\Local\\Temp\\arduino_build_142396\\sketch\\ina219.ino.cpp",
+    "Include": "LiquidCrystal.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\libraries\\LiquidCrystal\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\MARCOA~1\\AppData\\Local\\Temp\\arduino_build_142396\\sketch\\ina219.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Marco Antonio\\Documents\\Arduino\\libraries\\Adafruit_INA219\\Adafruit_INA219.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Marco Antonio\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_BusIO_Register.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Marco Antonio\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_I2CDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Marco Antonio\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_SPIDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\LiquidCrystal\\src\\LiquidCrystal.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
